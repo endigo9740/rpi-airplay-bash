@@ -3,8 +3,10 @@
 ## Setup:
 
 1. Create a directory called `Dev` inside Home directory
-2. When prompted, clone into the directory above
-3. Follow install instructions here: https://github.com/FD-/RPiPlay
+    * `cd ~`
+    * `mkdir Dev`
+3. When prompted, clone into the directory above
+4. Follow install instructions here: https://github.com/FD-/RPiPlay
 
 ## Instructions
 
